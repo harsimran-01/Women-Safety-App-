@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Theme Colors -->
+    <color name="md_theme_primary">#D32F2F</color> <!-- Bold red for urgency -->
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primary_container">#FFCDD2</color>
+
+    <!-- Secondary Theme Colors -->
+    <color name="md_theme_secondary">#C2185B</color> <!-- Empowering magenta -->
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondary_container">#F8BBD0</color>
+
+    <!-- Background & Surface -->
+    <color name="md_theme_background">#FFF8F8</color> <!-- Soft warm background -->
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_onBackground">#000000</color>
+
+    <color name="md_theme_error">#B00020</color>
+</resources>
