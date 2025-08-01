@@ -16,10 +16,8 @@ public class ContactsAdapter extends RecyclerView.Adapter<ContactsAdapter.ViewHo
     public interface OnContactRemoveListener {
         void onContactRemove(int position);
     }
-
     private List<String> contacts;
     private OnContactRemoveListener listener;
-
     public ContactsAdapter(List<String> contacts, OnContactRemoveListener listener) {
         this.contacts = contacts;
         this.listener = listener;
